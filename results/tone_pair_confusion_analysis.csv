@@ -1,0 +1,9 @@
+condition,tone2_tone3_confusions,tone2_tone3_rate,tone1_tone4_confusions,tone1_tone4_rate
+clean,0,0.0,0,0.0
+white_mild,0,0.0,0,0.0
+white_medium,0,0.0,0,0.0
+white_strong,7,0.5,0,0.0
+speed_fast,0,0.0,0,0.0
+speed_slow,0,0.0,0,0.0
+pitch_up,0,0.0,0,0.0
+pitch_down,0,0.0,0,0.0
