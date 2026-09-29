@@ -29,10 +29,6 @@ for tone_dir in sorted(os.listdir(DATASET_CLEAN)):
 
 df = pd.DataFrame(rows)
 
-# Stratify by tone so every tone is equally represented in every split
-# (48 files per tone is plenty for a 3-way stratified split; stratifying
-# jointly by tone+syllable would leave only 6 samples per group, too few
-# to split three ways).
 train_df, temp_df = train_test_split(
     df, test_size=0.30, stratify=df["tone"], random_state=42
 )
