@@ -1,6 +1,4 @@
-"""Step 1-3, 7: scan dataset_clean/, build metadata_clean.csv with a
-stratified train/val/test split (stratified jointly by tone+syllable so
-every syllable/tone combination is represented in every split)."""
+
 import os
 import sys
 import pandas as pd
