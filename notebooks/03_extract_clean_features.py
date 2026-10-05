@@ -1,5 +1,4 @@
-"""Step 6: convert every clean audio file into a Mel spectrogram array and
-save train/val/test feature matrices for model training."""
+
 import os
 import sys
 import numpy as np
