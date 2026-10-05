@@ -1,5 +1,4 @@
-"""Step 5-7: load a sample file, convert to Mel spectrogram, and plot the
-same syllable across all four tones to visually motivate the CNN approach."""
+
 import os
 import sys
 import matplotlib
