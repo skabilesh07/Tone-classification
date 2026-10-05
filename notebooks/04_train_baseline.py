@@ -1,5 +1,4 @@
-"""Step 8-10 (Experiment 1): train the baseline CNN on clean spectrograms
-only and evaluate clean test accuracy, confusion matrix, precision/recall/F1."""
+
 import os
 import sys
 import json
