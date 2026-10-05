@@ -1,6 +1,4 @@
-"""Step 12 (Experiment 2): test the clean-trained baseline CNN on noisy
-test spectrograms for each condition. Compares clean vs noisy accuracy and
-tracks Tone2/Tone3 and Tone1/Tone4 confusion specifically."""
+
 import os
 import sys
 import json
